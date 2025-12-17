@@ -16,6 +16,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+user-bge-m3-local/
 brow/
 build/
 develop-eggs/
